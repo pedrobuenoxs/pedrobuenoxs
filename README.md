@@ -8,7 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobuenoxs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuenoxs&layout=compact&theme=radical)](https://github.com/pedrobuenoxs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuenoxs&theme=radical)](https://github.com/pedrobuenoxs/github-readme-stats)
 
 
 <!---
