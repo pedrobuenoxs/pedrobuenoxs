@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrobuenoxs
-- 👀 I’m interested in backend and data bases
+- 👀 I’m interested in backend.
 - 🌱 I’m currently learning NodeJs and APIs
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 Message me: pedrohbueno02@gmail.com
