@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 Message me: pedrohbueno02@gmail.com
 
-
+- YOU CAN FIND ME AT:
+"npx pedro-bueno"
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobuenoxs&show_icons=true&theme=radical)
